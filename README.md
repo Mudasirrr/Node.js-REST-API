@@ -1,8 +1,8 @@
-###### REST-API
+# REST-API
 This repository contains REST API  using Mongodb, Node.js, Express.js.
 
 
-### What is REST architecture?
+# What is REST architecture?
 REST stands for REpresentational State Transfer. REST is web standards based architecture and uses HTTP Protocol. It revolves around resource where every component is a resource and a resource is accessed by a common interface using HTTP standard methods. REST was first introduced by Roy Fielding in 2000.
 
 A REST Server simply provides access to resources and REST client accesses and modifies the resources using HTTP protocol. Here each resource is identified by URIs/ global IDs. REST uses various representation to represent a resource like text, JSON, XML but JSON is the most popular one.
