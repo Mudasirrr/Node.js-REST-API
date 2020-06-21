@@ -35,3 +35,6 @@ Sr.No.	URI	HTTP Method	POST body	Result
 3	deleteUser	DELETE	JSON String	Delete an existing user.
 4	:id	GET	empty	Show details of a user.
 I'm keeping most of the part of all the examples in the form of hard coding assuming you already know how to pass values from front end using Ajax or simple form data and how to process them using express Request object
+
+# Middleware:
+we use this usually in server to apply extra functionality on the application . some time it is very very usefull for us. In short it makes our application beautiful

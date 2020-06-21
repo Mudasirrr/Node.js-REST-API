@@ -1,0 +1,9 @@
+To handle the errors we need to use two plugin .
+To handle errors from mongodb: we need to use mongoose-mongodb-errors package, it give very readable errors..
+    install: npm i mongoose-mongodb-errors
+    then add the plugin 
+        mongoose.plugin(mongodbErrorHandler); in the model 
+Second we can also handle the errors from async await by
+    using the package: express-async-errors
+    npm i express-async-errors
+    then just require it in the server file
