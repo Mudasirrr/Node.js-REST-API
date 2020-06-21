@@ -10,13 +10,17 @@ A REST Server simply provides access to resources and REST client accesses and m
 # HTTP methods
 Following four HTTP methods are commonly used in REST based architecture.
 
-## GET − This is used to provide a read only access to a resource.
+## GET −
+This is used to provide a read only access to a resource.
 
-## PUT − This is used to create a new resource.
+## PUT − 
+This is used to create a new resource.
 
-## DELETE − This is used to remove a resource.
+## DELETE −
+This is used to remove a resource.
 
-## POST − This is used to update a existing resource or create a new resource.
+## POST −
+This is used to update a existing resource or create a new resource.
 
 # RESTful Web Services
 A web service is a collection of open protocols and standards used for exchanging data between applications or systems. Software applications written in various programming languages and running on various platforms can use web services to exchange data over computer networks like the Internet in a manner similar to inter-process communication on a single computer. This interoperability (e.g., communication between Java and Python, or Windows and Linux applications) is due to the use of open standards.
