@@ -70,6 +70,6 @@ router.delete('/delete/:itemId', async (req, res, next) => {
     } catch (error) {
         res.send(500)
     }
-})
+});
 
 module.exports = router;
